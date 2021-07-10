@@ -1,0 +1,26 @@
+baseURL = "https://as212360.net/"
+languageCode = "en-us"
+title = "AS212360.net"
+theme = "researcher"
+enableEmoji = true
+math = false
+googleAnalytics = "G-263E8PHXJ8"
+
+[params]
+  author = "Jimmy Pan"
+  description = "AS212360-NET"
+  favicon = ""
+  logo = "" 
+  [params.footer]
+    text = "Maintained By Jimmy Pan"
+    url = "https://ptc.work"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:noc@as21360.net"

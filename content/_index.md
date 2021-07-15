@@ -38,6 +38,7 @@ Exchange | IPv4 | IPv6 | Speed | Type
 
 Peer | ASN | Type
 -----|-----|------
+[Walks Cloud Inc.](https://walks.cloud/) | [AS38856](https://bgp.he.net/AS38856) | WireGuard
 [Openfactory GmbH](https://freetransit.ch/) | [AS41051](https://bgp.he.net/AS41051) | GRE
 [iFog GmbH](https://tunnelbroker.li/) | [AS34927](https://bgp.he.net/AS34927) | GRE
 [Securebit AG](https://www.tunnelbroker.ch/) | [AS58057](https://bgp.he.net/AS58057) | GRE

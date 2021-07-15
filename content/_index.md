@@ -29,9 +29,10 @@ IP Address | Country | Registry
 
 Exchange | IPv4 | IPv6 | Speed | Type
 ---------|------|------|-------|------
-[4b42 Internet Exchange Point](https://bgp.he.net/exchange/4b42%20Internet%20Exchange%20Point) | - | 2001:7f8:d0::3:3d88:1 | 1G | GRE Tap
-[LL-IX](https://bgp.he.net/exchange/LL-IX) | - | 2001:678:4fc::92:200 | 300M | VXLAN
 [STUIX](https://bgp.he.net/exchange/STUIX) | 103.158.187.23 | 2a0f:5707:ffe3::23 | 1G | Wireguard
+[LL-IX](https://bgp.he.net/exchange/LL-IX) | - | 2001:678:4fc::92:200 | 300M | VXLAN
+[EVIX](https://bgp.he.net/exchange/EVIX) | - | 2602:fed2:fff:ffff:6::9c | 1G | VXLAN
+[4b42 Internet Exchange Point](https://bgp.he.net/exchange/4b42%20Internet%20Exchange%20Point) | - | 2001:7f8:d0::3:3d88:1 | 1G | GRE Tap
 
 ## Transit / Peering
 

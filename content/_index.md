@@ -24,6 +24,7 @@ IP Address | Country | Registry
 [2a0e:8f02:f00d::/48](https://bgp.he.net/net/2a0e:8f02:f00d::/48) | DE | RIPE NCC
 [2a0f:607:1054::/48](https://bgp.he.net/net/2a0f:607:1054::/48) | JP | RIPE NCC
 [2a0e:b107:1350::/44](https://bgp.he.net/net/2a0e:b107:1350::/44) | CH | RIPE NCC
+[2602:fc23:112::/48](https://bgp.he.net/net/2602:fc23:112::/48) | CA | ARIN
 
 ## Internet Exchange
 
